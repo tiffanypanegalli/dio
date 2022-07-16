@@ -1,5 +1,8 @@
 # GitHub
 
-## Comandos GitHub
+## Command GitHub
 
-| $ git init | 
+
+|   Command  | Description |
+|------------|-------------|
+| $ git init | Initialize git in the directory| 
