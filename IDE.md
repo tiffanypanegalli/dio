@@ -29,3 +29,8 @@ Plugins interessantes:
 
 jetbrains.com/help/idea/mastering-keyboard-shortcuts.html#advanced-features
 https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
+
+
+Outras IDEs
+- Visual Studio Code
+- Eclipse
