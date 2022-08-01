@@ -1,6 +1,6 @@
 Java
  - programa.java > compilador > programa.class > JVM > código binário
- - a linguagem Java é uma das linguagens da Plataforma Java, juntamente com o groovy
+ - a linguagem Java é uma das linguagens da Plataforma Java, juntamente com o groovy, jython e jRuby
  - write once, run everywhere: por rodar na JVM o programa pode ser rodado em qualquer máquina
 
 Edições da plataforma Java
